@@ -6894,10 +6894,10 @@
       "cell_type": "code",
       "metadata": {
         "id": "JE5jCSI_TfIa",
-        "outputId": "72a61dc1-8b68-4810-9ca1-c22e04bd8aa0",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "72a61dc1-8b68-4810-9ca1-c22e04bd8aa0"
       },
       "source": [
         "!pip install transformers\n",
